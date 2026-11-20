@@ -48,8 +48,7 @@ Execute the program using runserver command.
         cellspacing="1"
         cellpadding="10"
         align="center" width="1000">
-        <thead bgcolor="Yellow">
-            <tr>
+            <tr bgcolor="yellow">
                 <th>DAY/TIME</th>
                 <th>MONDAY</th>
                 <th>TUESDAY</th>
@@ -58,9 +57,7 @@ Execute the program using runserver command.
                 <th>FRIDAY</th>
                 <th>SATURDAY</th>
             </tr>
-        </thead>
-        <tbody bgcolor="sky blue">
-            <tr>
+            <tr bgcolor="sky blue">
                 <th bgcolor="yellow">8.00-9.30</th>
                 <td>Free</td>
                 <td>MATH-AI </td>
@@ -69,7 +66,7 @@ Execute the program using runserver command.
                 <td>MATH-AI</td>
                 <td>Free</td>
             </tr>
-            <tr>
+            <tr bgcolor="sky blue">
                 <th bgcolor="yellow">9.30-9.45</th>
                 <td>Break</td>
                 <td>Break</td>
@@ -78,7 +75,7 @@ Execute the program using runserver command.
                 <td>Break</td>
                 <td>Free</td>
             </tr>
-            <tr>
+            <tr bgcolor="sky blue">
                   <th bgcolor="yellow">9.45-11.15</th>
                   <td>EDM</td>  
                   <td>FWAD</td>
@@ -87,7 +84,7 @@ Execute the program using runserver command.
                   <td>FWAD</td>
                   <td>Free</td>
             </tr>
-            <tr> 
+            <tr bgcolor="sky blue"> 
                   <th bgcolor="yellow">11.15-12.15</th>
                   <td>Lunch Break</td>
                   <td>Lunch Break</td>
@@ -95,8 +92,9 @@ Execute the program using runserver command.
                   <td>Lunch Break</td>
                   <td>Lunch Break</td>
                   <td>Free</td>
+
             </tr>
-            <tr>
+            <tr bgcolor="sky blue">
                 <th bgcolor="yellow">12.15-1.15</th>
                 <td>Mentor Meet</td>
                 <td>Mentor Meet</td>
@@ -105,7 +103,7 @@ Execute the program using runserver command.
                 <td>Mentor Meet</td>
                 <td>Free</td>
              </tr>
-             <tr>
+             <tr bgcolor="sky blue">
                 <th bgcolor="yellow">1.15-2.45</th>
                 <td>FWAD</td>
                 <td>Free</td>
@@ -114,7 +112,7 @@ Execute the program using runserver command.
                 <td>Free</td>
                 <td>Free</td>
              </tr>
-             <tr>
+             <tr bgcolor="sky blue">
                 <th bgcolor="yellow">2.45-3.00</th>
                 <td>Break</td>
                 <td>Break</td>
@@ -123,7 +121,7 @@ Execute the program using runserver command.
                 <td>Break</td>
                 <td>Free</td>
              </tr>
-             <tr>
+             <tr bgcolor=" sky blue">
                 <th bgcolor="yellow">3.00-4.30</th>
                 <td>DE</td>
                 <td>CE</td>
@@ -133,7 +131,6 @@ Execute the program using runserver command.
                 <td>Free</td>
              </tr>
         </table>
-        </tbody>
         <br>
         <table border="5" cellspacing="2" cellpadding="10" align="center" width="800">
             <tr bgcolor="cyan">
@@ -155,6 +152,7 @@ Execute the program using runserver command.
                  <td>3.</td>
                  <td>19EE404</td>
                  <td>Digital Electronic(DE)</td>
+
             </tr>
             <tr>
                   <td>4.</td>
@@ -177,7 +175,7 @@ Execute the program using runserver command.
 ```
 ## OUTPUT
 Web page
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
